@@ -21,8 +21,5 @@ e.target.password.value = '';
 e.target.password1.value = '';
 
 document.querySelector("#demo").style.color="red";
-document.querySelector("#demo").setTimeout(() => {
-  
-}, timeout);
 
 })
